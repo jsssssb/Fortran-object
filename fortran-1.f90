@@ -1,33 +1,5 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@jsssssb 
-geodynamics
-/
-seismic_cpml
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-seismic_cpml/seismic_CPML_3D_viscoelastic_MPI.f90
-@komatits
-komatits removed + 0.1d0 * ALPHA_MAX_PML from all the formulas, following a di…
-…
-Latest commit 6012c34 on 14 Jul 2018
- History
- 1 contributor
-1765 lines (1416 sloc)  63.5 KB
-
-
+! Date: 2022/6/10
+! copy : 
 !
 ! SEISMIC_CPML Version 1.2, April 2015.
 !
